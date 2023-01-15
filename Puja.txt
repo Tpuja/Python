@@ -1,0 +1,6 @@
+Staff name: Puja thapa, Staff address: Baneshwor, Staff PAN: 85296345, For Year: 2020/21, Staff income: 90000, Tax amount: 168000.0
+Staff name: Sushma Khada, Staff address: Kadaghari, Staff PAN: 75395142, For Year: 2020/21, Staff income: 80000, Tax amount: 132000.0
+Staff name: Sabin Bhandari, Staff address: Gangabu, Staff PAN: 85275341, For Year: 2020/21, Staff income: 75000, Tax amount: -1925500.0
+Staff name: Rijan Lama, Staff address: Sundarijal, Staff PAN: 698752340, For Year: 2020/21, Staff income: 65000, Tax amount: -1961500.0
+Staff name: Parisha Thapa, Staff address: Shantinagar, Staff PAN: 55889647, For Year: 2020/21, Staff income: 980000, Tax amount: 11620000.0
+Staff name: sds, Staff address: cs, Staff PAN: 852, For Year: 2020/21, Staff income: 521452, Tax amount: 6117424.0
